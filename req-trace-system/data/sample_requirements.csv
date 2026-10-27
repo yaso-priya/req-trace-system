@@ -1,0 +1,27 @@
+Website,Req_ID,Requirement,Priority
+ShopEasy,SE-01,The system shall allow guest users to checkout without creating an account.,High
+ShopEasy,SE-02,The system shall require users to login before placing any order.,High
+ShopEasy,SE-03,The website should be fast and user-friendly.,Medium
+ShopEasy,SE-04,The system shall display product search results within 2 seconds.,High
+ShopEasy,SE-05,The system shall display product search results within 5 seconds.,Medium
+ShopEasy,SE-06,The system shall encrypt all payment data using AES-256.,High
+ShopEasy,SE-07,Users shall be able to track orders.,Medium
+ShopEasy,SE-08,The system must allow users to track their orders.,Medium
+ShopEasy,SE-09,The system shall support various payment methods etc.,Low
+ShopEasy,SE-10,The system shall send an email confirmation after each order.,Medium
+ShopEasy,SE-11,The session timeout shall be 15 minutes of inactivity.,Medium
+ShopEasy,SE-12,The session timeout shall be 30 minutes of inactivity.,Low
+SchoolPro,SM-01,Students shall be able to view their timetable online.,High
+SchoolPro,SM-02,Only teachers shall be allowed to enter student marks.,High
+SchoolPro,SM-03,The system shall allow clerks to edit student marks.,Medium
+SchoolPro,SM-04,Parents shall receive an SMS alert when a student is absent.,High
+SchoolPro,SM-05,Attendance shall be marked within 10 minutes of each class start.,Medium
+SchoolPro,SM-06,Attendance shall be marked within 30 minutes of each class start.,Low
+SchoolPro,SM-07,The system shall generate report cards for each term.,Medium
+SchoolPro,SM-08,The system must generate term report cards for every student.,Medium
+SchoolPro,SM-09,The system should be user-friendly and support many devices etc.,Low
+SchoolPro,SM-10,Fee payment records shall be visible only to the accounts office.,High
+SchoolPro,SM-11,Fee payment records shall be visible to all teachers.,Medium
+SchoolPro,SM-12,The admin shall be able to add new students.,High
+SchoolPro,SM-13,The student portal shall support 500 concurrent users.,High
+SchoolPro,SM-14,Library module TBD.,Low

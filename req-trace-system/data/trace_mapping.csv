@@ -1,0 +1,21 @@
+Req_ID,Module,Function,TestCase,Status
+SE-01,Checkout,guest_checkout(),TC-101,Pass
+SE-02,Authentication,login_required_check(),TC-102,Fail
+SE-04,Search,search_products(),TC-103,Pass
+SE-05,Search,search_products(),TC-104,Not Run
+SE-06,Payment,encrypt_payment(),TC-105,Pass
+SE-07,Orders,track_order(),TC-106,Pass
+SE-08,Orders,track_order(),TC-107,Pass
+SE-10,Notification,send_order_email(),TC-108,Pass
+SE-11,Session,session_timeout(),TC-109,Not Run
+SM-01,Timetable,view_timetable(),TC-201,Pass
+SM-02,Marks,enter_marks(),TC-202,Pass
+SM-03,Marks,edit_marks(),TC-203,Fail
+SM-04,Notification,send_absence_sms(),TC-204,Pass
+SM-05,Attendance,mark_attendance(),TC-205,Pass
+SM-06,Attendance,mark_attendance(),TC-206,Not Run
+SM-07,Reports,generate_report_card(),TC-207,Pass
+SM-10,Fees,view_fee_records(),TC-208,Pass
+SM-11,Fees,view_fee_records(),TC-209,Fail
+SM-12,Admin,add_student(),TC-210,Pass
+SM-13,Performance,load_handler(),TC-211,Not Run

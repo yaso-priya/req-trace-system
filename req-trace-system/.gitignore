@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/trace.db
+.DS_Store
